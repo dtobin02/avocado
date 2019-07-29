@@ -4,7 +4,10 @@ layout: default
 
 # Classes
 
-_Programming and Data for Policymakers_, a course which I developed that blended hands-on programming lessons and discussions about technology policy at the [Harvard Kennedy School](https://www.hks.harvard.edu/courses/programming-and-data-policymakers)
+
+17.178	Institutions and Development [Syllabus](https://polisci.mit.edu/files/ps/imce/faculty/syllabus/Schneider_17.178_syl_PE_devl_fall_2017.PDF)
+17.588	Field Seminar in Comparative Politics [Syllabus](https://polisci.mit.edu/files/ps/imce/faculty/syllabus/Schneider_17.588_Comp_Pol_syl_S18.PDF)
+17.951	New Research on Latin American Politics [Syllabus](https://polisci.mit.edu/files/ps/imce/faculty/syllabus/Schneider_17.951_syllabus_S16.pdf)
 
 # Workshops
 

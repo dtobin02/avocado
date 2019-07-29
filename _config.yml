@@ -12,9 +12,9 @@ markdown: kramdown
 buttons:
  - text: Home
    url: /
- - text: Work
-   url: work
+ - text: Research
+   url: research
  - text: Teaching
    url: teaching
- - text: Media
-   url: media
+ - text: Publications
+   url: publications
