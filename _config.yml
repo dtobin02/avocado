@@ -8,3 +8,13 @@ twitter_url: https://twitter.com/joecool
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
+
+buttons:
+ - text: Home
+   url: /
+ - text: Work
+   url: work
+ - text: Teaching
+   url: teaching
+ - text: Media
+   url: media
