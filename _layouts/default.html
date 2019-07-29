@@ -17,6 +17,10 @@
       </section>
       <section id="pic">
         <img src="assets/images/schneider_vertical.png"></img>
+        <br/>
+          {% for button in site.buttons %}
+            <button type="button" onclick="location.href='{{ button.url }}';"> {{ button.text }} </button>
+          {% endfor %}
       </section>
       <div class="u-cf"></div>
       <section id="social-media-links">
